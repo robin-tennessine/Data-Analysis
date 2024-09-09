@@ -31,4 +31,3 @@ Using Power BI, the cleaned and transformed data is visualized to showcase:
 - **Expenditure Patterns**: Insights into how tourist spending has changed over the years.
 - **Foreign Tourist Types**: Analysis of different types of foreign tourists visiting Chiang Rai in 2014.
 
-[text.txt](https://github.com/user-attachments/files/16924251/text.txt)
